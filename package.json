@@ -1,0 +1,19 @@
+{
+  "name": "extensive-perk",
+  "version": "1.0.0",
+  "description": "Extensive Perk Creation Pvt. Ltd. | Professional Loan & Financial Advisory Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "loan",
+    "advisory",
+    "mortgage",
+    "finance",
+    "business-loan",
+    "home-loan"
+  ],
+  "author": "Extensive Perk Creation Pvt. Ltd.",
+  "license": "ISC"
+}
